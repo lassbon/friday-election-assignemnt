@@ -5,3 +5,4 @@ function mappingArray(array) {
 }
 
 console.log(mappingArray())
+console.log(mappingArray())
