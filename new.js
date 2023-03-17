@@ -3,3 +3,5 @@ function mappingArray(array) {
     return item * 2;
   });
 }
+
+console.log(mappingArray())
